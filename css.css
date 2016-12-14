@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: 'THSarabunNew';
+  src: url('THSarabunNew.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'THSarabunNew', Fallback, sans-serif;
+}
+
+.import {
+  font-size: 30px;
+  color: red;
+}
